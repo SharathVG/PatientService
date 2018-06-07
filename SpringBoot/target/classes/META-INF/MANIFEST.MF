@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: HealthcareService
+Implementation-Version: 1.0.0
+Built-By: SV042734
+Implementation-Vendor-Id: com.myorg.springboot
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/HealthcareSe
+ rvice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
